@@ -1,0 +1,5 @@
+pip install python
+pip install streamlit
+pip install streamlit-option-menu
+pip install pandas as pd
+pip install numpy as np   
