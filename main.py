@@ -10,6 +10,7 @@ with st.sidebar :
 if tab == 'Home' :
   st.header('Welcome to Sci-Day")
   st.text('ง๗ง')
+  st.image("sci.jpg")
 if tab == 'About Sci-Day' :
   st.text('deee')
 if tab == 'Activities':
